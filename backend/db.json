@@ -1,19 +1,19 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "Boné",
-            "price": 36.97
-        },
-        {
-            "id": 2,
-            "name": "Camiseta",
-            "price": 297.97
-        },
-        {
-            "id": 3,
-            "name": "Calça",
-            "price": 126.83
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Boné",
+      "price": 36.97
+    },
+    {
+      "id": 2,
+      "name": "Camiseta",
+      "price": 297.97
+    },
+    {
+      "id": 3,
+      "name": "Calça",
+      "price": 126.83
+    }
+  ]
 }
