@@ -14,6 +14,11 @@
       "id": 3,
       "name": "Calça",
       "price": 126.83
+    },
+    {
+      "name": "TESTE",
+      "price": "9.99",
+      "id": 4
     }
   ]
 }
