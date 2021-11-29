@@ -8,7 +8,7 @@
     {
       "id": 2,
       "name": "Camiseta",
-      "price": 297.97
+      "price": "295"
     },
     {
       "id": 3,
@@ -16,8 +16,8 @@
       "price": 126.83
     },
     {
-      "name": "TESTE",
-      "price": "9.99",
+      "name": "Bala",
+      "price": "0.15",
       "id": 4
     }
   ]
